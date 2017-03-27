@@ -1,0 +1,38 @@
+{
+	"defaults": {
+		"PlanDefinition": {
+			"template-base": "ex.html"
+		},
+		"ActivityDefinition": {
+			"template-base": "ex.html"
+		},
+		"MedicationRequest": {
+			"template-base": "ex.html"
+		},
+		"StructureDefinition": {
+			"template-base": "sd.html",
+			"template-defns": "sd-definitions.html"
+		},
+		"Any": {
+			"template-format": "format.html",
+			"template-base": "base.html"
+		}
+	},
+	"source": "ig.xml",
+	"tool": "jekyll",
+	"resources": {
+	},
+	"canonicalBase": "http://nccn.org/fhir",
+	"spreadsheets": ["plandefinition-order-template-simple-spreadsheet-split.xml"],
+	"sct-edition": "http://snomed.info/sct/731000124108",
+	"paths": {
+		"temp": "temp",
+		"resources": ["resources"],
+		"specification": "http://hl7.org/fhir/STU3",
+		"txCache": "txCache",
+		"qa": "qa",
+		"pages": "pages",
+		"output": "output"
+	},
+	"version": "3.0.0"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Hidden IG for de facto IG publishing-->
+<ImplementationGuide xmlns="http://hl7.org/fhir">
+  <id value="ig"/>
+  <url value="http://nccn.org/fhir/ImplementationGuide/ig"/>
+  <name value="Implementation Guide Template"/>
+  <status value="draft"/>
+  <experimental value="true"/>
+  <publisher value="NCCN"/>
+    <package><name value="base"/>
+    </package>
+    <page><source value="index.html"/><title value="blah"/><kind value="page"/></page>
+</ImplementationGuide>
