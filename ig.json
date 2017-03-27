@@ -22,7 +22,7 @@
 	"tool": "jekyll",
 	"resources": {
 	},
-	"canonicalBase": "http://nccn.org/fhir",
+	"canonicalBase": "http://example.org/fhir",
 	"spreadsheets": ["plandefinition-order-template-simple-spreadsheet-split.xml"],
 	"sct-edition": "http://snomed.info/sct/731000124108",
 	"paths": {
