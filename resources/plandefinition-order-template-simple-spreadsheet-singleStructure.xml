@@ -639,8 +639,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s73"><Data ss:Type="String">extension.uri</Data></Cell>
-    <Cell ss:StyleID="s78" ss:HRef="http://nccn.org/fhir/StructureDefinition/"><Data
-      ss:Type="String">http://nccn.org/fhir/StructureDefinition/</Data></Cell>
+    <Cell ss:StyleID="s78" ss:HRef="http://example.org/fhir/StructureDefinition/"><Data
+      ss:Type="String">http://example.org/fhir/StructureDefinition/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s79"><Data ss:Type="String">introduction</Data></Cell>

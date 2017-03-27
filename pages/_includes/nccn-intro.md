@@ -2,13 +2,13 @@
 
 ## Introduction
 
-National Comprehensive Cancer Network Chemotherapy Order Templates (NCCN Templates®) are used to
+National Comprehensive Cancer Network Chemotherapy Order Templates (example Templates®) are used to
 improve the safety and efficacy of cancer treatment regimen.
 
 
-## NCCN Order Template Profiles
+## example Order Template Profiles
 
-NCCN Order Templates are based on the following clinical reasoning resources
+example Order Templates are based on the following clinical reasoning resources
 * (http://hl7.org/fhir/2017Jan/plandefinition.html)[http://hl7.org/fhir/2017Jan/plandefinition.html]
 * (http://hl7.org/fhir/2017Jan/activitydefinition.html)[http://hl7.org/fhir/2017Jan/plandefinition.html]
 
