@@ -23,7 +23,7 @@
 	"resources": {
 	},
 	"canonicalBase": "http://example.org/fhir",
-	"spreadsheets": ["plandefinition-order-template-simple-spreadsheet-split.xml"],
+	"spreadsheets": ["plandefinition-order-template-simple-spreadsheet-singleStructure.xml"],
 	"sct-edition": "http://snomed.info/sct/731000124108",
 	"paths": {
 		"temp": "temp",
